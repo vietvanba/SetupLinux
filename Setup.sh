@@ -1,0 +1,13 @@
+bash ./WintelSetup.sh
+bash ./InstallChrome.sh
+bash ./InstallIntelliJ.sh
+bash ./InstallJava17.sh
+bash ./InstallObsidian.sh
+bash ./InstallNVM.sh
+bash ./InstallGit.sh
+bash ./InstallPostgreSQL14.sh
+bash ./InstallDbeaver.sh
+bash ./InstallGitKraken.sh
+bash ./InstallSourceTree.sh
+bash ./InstallVisualStudioCode.sh
+bash ./InstallNodeJs.sh
